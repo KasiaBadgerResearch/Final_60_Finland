@@ -1,0 +1,833 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
+Finland,FIN,2020,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.997009992599487
+Finland,FIN,2019,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.994539976119995
+Finland,FIN,2018,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.994700014591217
+Finland,FIN,2017,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.994870007038116
+Finland,FIN,2016,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.995559990406036
+Finland,FIN,2015,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.994159996509552
+Finland,FIN,2014,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.995800018310547
+Finland,FIN,2013,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.992399990558624
+Finland,FIN,2012,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.991599977016449
+Finland,FIN,2011,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.992049992084503
+Finland,FIN,2010,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.993439972400665
+Finland,FIN,2009,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.993439972400665
+Finland,FIN,2008,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.991800010204315
+Finland,FIN,2007,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.995369970798492
+Finland,FIN,2006,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.996169984340668
+Finland,FIN,2005,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.99234002828598
+Finland,FIN,2004,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.991029977798462
+Finland,FIN,2003,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.991310000419617
+Finland,FIN,2002,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.993520021438599
+Finland,FIN,2001,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.994920015335083
+Finland,FIN,2000,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.994199991226196
+Finland,FIN,1999,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.996680021286011
+Finland,FIN,1998,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.997479975223541
+Finland,FIN,1997,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.0014899969101
+Finland,FIN,1996,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.00218999385834
+Finland,FIN,1995,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.997359991073608
+Finland,FIN,1994,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.997850000858307
+Finland,FIN,1993,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.997420012950897
+Finland,FIN,1992,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.99686998128891
+Finland,FIN,1991,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.994040012359619
+Finland,FIN,1990,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.995090007781982
+Finland,FIN,1989,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.996840000152588
+Finland,FIN,1988,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.00133001804352
+Finland,FIN,1987,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.00616002082825
+Finland,FIN,1986,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.999279975891113
+Finland,FIN,1985,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.997839987277985
+Finland,FIN,1984,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.994660019874573
+Finland,FIN,1983,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.992820024490356
+Finland,FIN,1982,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.00379002094269
+Finland,FIN,1981,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.991940021514893
+Finland,FIN,1980,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.992739975452423
+Finland,FIN,1979,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.99549001455307
+Finland,FIN,1978,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.992399990558624
+Finland,FIN,1977,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.987749993801117
+Finland,FIN,1976,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.977789998054504
+Finland,FIN,1975,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.958410024642944
+Finland,FIN,1974,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.93121999502182
+Finland,FIN,1973,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.922060012817383
+Finland,FIN,1972,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.930779993534088
+Finland,FIN,2020,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.05539000034332
+Finland,FIN,2019,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.05174994468689
+Finland,FIN,2018,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.05789995193481
+Finland,FIN,2017,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.05625998973846
+Finland,FIN,2016,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.05761003494263
+Finland,FIN,2015,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.05718004703522
+Finland,FIN,2014,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.05675995349884
+Finland,FIN,2013,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.05431997776031
+Finland,FIN,2012,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.02188003063202
+Finland,FIN,2011,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.02109003067017
+Finland,FIN,2010,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.02248001098633
+Finland,FIN,2009,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.02356994152069
+Finland,FIN,2008,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.02240002155304
+Finland,FIN,2007,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.02225005626678
+Finland,FIN,2006,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.02063000202179
+Finland,FIN,2005,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.02005994319916
+Finland,FIN,2004,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.02023005485535
+Finland,FIN,2003,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.05271005630493
+Finland,FIN,2002,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.05659997463226
+Finland,FIN,2001,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.05446994304657
+Finland,FIN,2000,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.04841995239258
+Finland,FIN,1999,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.04770004749298
+Finland,FIN,1998,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.05195999145508
+Finland,FIN,1997,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.07398998737335
+Finland,FIN,1996,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.09221005439758
+Finland,FIN,1995,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.07792997360229
+Finland,FIN,1994,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.08613002300262
+Finland,FIN,1993,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.09168994426727
+Finland,FIN,1992,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.10609996318817
+Finland,FIN,1991,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.09400999546051
+Finland,FIN,1990,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.08712005615234
+Finland,FIN,1989,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.0769100189209
+Finland,FIN,1988,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.0833899974823
+Finland,FIN,1987,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.08585000038147
+Finland,FIN,1986,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.08513998985291
+Finland,FIN,1985,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.08931994438171
+Finland,FIN,1984,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.08516001701355
+Finland,FIN,1983,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.06464004516602
+Finland,FIN,1982,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.06679999828339
+Finland,FIN,1981,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.05711996555328
+Finland,FIN,1980,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.05862998962402
+Finland,FIN,1979,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.05420005321503
+Finland,FIN,1978,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.05188000202179
+Finland,FIN,1977,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.04932999610901
+Finland,FIN,1976,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.05043005943298
+Finland,FIN,1974,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.02892005443573
+Finland,FIN,1973,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.02584004402161
+Finland,FIN,1972,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.01688003540039
+Finland,FIN,2020,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.10054004192352
+Finland,FIN,2019,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.09565997123718
+Finland,FIN,2018,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.10361003875732
+Finland,FIN,2017,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.10040998458862
+Finland,FIN,2016,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.10216999053955
+Finland,FIN,2015,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.10157001018524
+Finland,FIN,2014,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.09898996353149
+Finland,FIN,2013,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.0959700345993
+Finland,FIN,2012,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.04770994186401
+Finland,FIN,2011,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.04522001743317
+Finland,FIN,2010,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.04648995399475
+Finland,FIN,2009,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.0487699508667
+Finland,FIN,2008,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.04838001728058
+Finland,FIN,2007,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.04556000232697
+Finland,FIN,2006,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.04238998889923
+Finland,FIN,2005,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.04568004608154
+Finland,FIN,2004,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.04800999164581
+Finland,FIN,2003,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.10382997989655
+Finland,FIN,2002,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.10969996452332
+Finland,FIN,2001,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.1042799949646
+Finland,FIN,2000,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.0934100151062
+Finland,FIN,1999,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.09038996696472
+Finland,FIN,1998,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.09834003448486
+Finland,FIN,1997,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.13648998737335
+Finland,FIN,1996,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.17333996295929
+Finland,FIN,1995,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.15149998664856
+Finland,FIN,1994,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.16800999641418
+Finland,FIN,1993,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.18248999118805
+Finland,FIN,1992,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.21231997013092
+Finland,FIN,1991,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.19451999664307
+Finland,FIN,1990,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.18059003353119
+Finland,FIN,1989,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.15900003910065
+Finland,FIN,1988,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.16831994056702
+Finland,FIN,1987,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.16673004627228
+Finland,FIN,1986,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.16822004318237
+Finland,FIN,1985,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.17472994327545
+Finland,FIN,1984,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.16706001758575
+Finland,FIN,1983,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.12839996814728
+Finland,FIN,1982,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.12127995491028
+Finland,FIN,1981,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.11449003219604
+Finland,FIN,1980,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.11968994140625
+Finland,FIN,1979,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.11080002784729
+Finland,FIN,1978,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.11269998550415
+Finland,FIN,1977,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.11592996120453
+Finland,FIN,1976,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.13499999046326
+Finland,FIN,1974,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.11020004749298
+Finland,FIN,1973,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.1099499464035
+Finland,FIN,1972,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.08495998382568
+Finland,FIN,1971,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.08364999294281
+Finland,FIN,2022,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.22125995159149
+Finland,FIN,2021,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.20285999774933
+Finland,FIN,2020,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.19628000259399
+Finland,FIN,2019,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.17170000076294
+Finland,FIN,2018,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.16006004810333
+Finland,FIN,2017,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.15916001796722
+Finland,FIN,2016,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.16276001930237
+Finland,FIN,2015,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.17013001441956
+Finland,FIN,2014,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.17227005958557
+Finland,FIN,2013,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.17451000213623
+Finland,FIN,2012,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.17537999153137
+Finland,FIN,2011,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.18580996990204
+Finland,FIN,2010,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.18181002140045
+Finland,FIN,2009,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.18675005435944
+Finland,FIN,2008,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.19249999523163
+Finland,FIN,2007,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.18623995780945
+Finland,FIN,2006,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.18336999416351
+Finland,FIN,2005,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.17048001289368
+Finland,FIN,2004,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.16614997386932
+Finland,FIN,2003,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.16857004165649
+Finland,FIN,2002,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.18918001651764
+Finland,FIN,2001,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.17823004722595
+Finland,FIN,2000,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.17412996292114
+Finland,FIN,1999,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.18254005908966
+Finland,FIN,1998,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.16777002811432
+Finland,FIN,1997,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.14702999591827
+Finland,FIN,1996,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.14513003826141
+Finland,FIN,1995,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.15006995201111
+Finland,FIN,1994,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.1523300409317
+Finland,FIN,1993,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.15451002120972
+Finland,FIN,1992,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.14020001888275
+Finland,FIN,1991,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.11724996566772
+Finland,FIN,1990,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.09744000434875
+Finland,FIN,1989,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.07859003543854
+Finland,FIN,1988,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.05226004123688
+Finland,FIN,1987,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.02891004085541
+Finland,FIN,1986,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.993420004844666
+Finland,FIN,1985,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.975369989871979
+Finland,FIN,1984,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.955879986286163
+Finland,FIN,1983,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.0168399810791
+Finland,FIN,1982,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.998960018157959
+Finland,FIN,1981,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.975589990615845
+Finland,FIN,1980,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.949289977550507
+Finland,FIN,1979,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.94038999080658
+Finland,FIN,1978,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.935159981250763
+Finland,FIN,1977,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.928950011730194
+Finland,FIN,1975,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.04912996292114
+Finland,FIN,1974,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.03105998039246
+Finland,FIN,1973,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.992250025272369
+Finland,FIN,1972,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.98360002040863
+Finland,FIN,1971,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.990170001983643
+Finland,FIN,2024,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,46
+Finland,FIN,2023,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,46
+Finland,FIN,2022,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,45.5
+Finland,FIN,2021,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,46
+Finland,FIN,2020,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,46
+Finland,FIN,2019,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,47
+Finland,FIN,2018,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,42
+Finland,FIN,2017,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,42
+Finland,FIN,2016,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,41.5
+Finland,FIN,2015,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,41.5
+Finland,FIN,2014,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,42.5
+Finland,FIN,2013,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,42.5
+Finland,FIN,2012,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,42.5
+Finland,FIN,2011,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,42.5
+Finland,FIN,2010,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,40
+Finland,FIN,2009,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,40
+Finland,FIN,2008,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,41.5
+Finland,FIN,2007,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,41.5
+Finland,FIN,2006,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,38
+Finland,FIN,2005,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,37.5
+Finland,FIN,2004,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,37.5
+Finland,FIN,2003,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,37.5
+Finland,FIN,2002,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,36.5
+Finland,FIN,2001,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,36.5
+Finland,FIN,2000,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,36.5
+Finland,FIN,1999,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,37
+Finland,FIN,1998,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,33.5
+Finland,FIN,1997,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,33.5
+Finland,FIN,2023,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,7.48646988874603
+Finland,FIN,2022,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,7.89455090652585
+Finland,FIN,2021,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,7.75542115403856
+Finland,FIN,2020,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,7.50957336168297
+Finland,FIN,2019,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,7.34250270254099
+Finland,FIN,2018,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,7.15819818992052
+Finland,FIN,2017,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,7.14727087212885
+Finland,FIN,2016,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,7.47149928446722
+Finland,FIN,2015,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,7.81370323835772
+Finland,FIN,2014,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,7.00220455181537
+Finland,FIN,2013,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,7.25710360916655
+Finland,FIN,2012,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,7.1526390751714
+Finland,FIN,2011,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,6.83977417994659
+Finland,FIN,2010,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,7.45038294153424
+Finland,FIN,2009,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,7.09688968821945
+Finland,FIN,2008,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,6.59538505552468
+Finland,FIN,2007,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,6.85142827188712
+Finland,FIN,2006,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,6.97337778210914
+Finland,FIN,2005,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,6.63642632069256
+Finland,FIN,2004,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,6.52966511444094
+Finland,FIN,2003,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,6.77091227098282
+Finland,FIN,2002,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,6.86098666473111
+Finland,FIN,2001,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,6.93151375236046
+Finland,FIN,2000,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,7.15466379987232
+Finland,FIN,1999,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,7.39763201427482
+Finland,FIN,1998,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,7.50375826382722
+Finland,FIN,1997,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,8.07424593967517
+Finland,FIN,1996,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,9.0382002813824
+Finland,FIN,1995,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,8.64193511630557
+Finland,FIN,1994,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,8.67215178048563
+Finland,FIN,1993,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,8.73754494907092
+Finland,FIN,1992,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,8.51608248304538
+Finland,FIN,1991,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,8.37786463934214
+Finland,FIN,2023,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,11.9636918875667
+Finland,FIN,2022,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,12.6953750793734
+Finland,FIN,2021,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,12.2090775018945
+Finland,FIN,2020,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,12.142703355086
+Finland,FIN,2019,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,11.8424163034231
+Finland,FIN,2018,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,11.6695882725081
+Finland,FIN,2017,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,11.8456876217664
+Finland,FIN,2016,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,12.6239826710722
+Finland,FIN,2015,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,13.1185285995114
+Finland,FIN,2014,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,12.0369782372627
+Finland,FIN,2013,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,12.4649460787632
+Finland,FIN,2012,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,12.0475013587613
+Finland,FIN,2011,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,12.0975981167184
+Finland,FIN,2010,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,12.7879239066732
+Finland,FIN,2009,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,12.4289628316287
+Finland,FIN,2008,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,11.0685687308729
+Finland,FIN,2007,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,11.9410378848462
+Finland,FIN,2006,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,11.93684973181
+Finland,FIN,2005,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,11.4716781826218
+Finland,FIN,2004,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,11.5272697507275
+Finland,FIN,2003,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,11.8112029592418
+Finland,FIN,2002,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,11.9923795138253
+Finland,FIN,2001,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,12.1835939484911
+Finland,FIN,2000,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,12.8568856001572
+Finland,FIN,1999,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,13.1545098745783
+Finland,FIN,1998,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,14.1621312588197
+Finland,FIN,1997,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,15.2508292977134
+Finland,FIN,1996,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,16.4162494069307
+Finland,FIN,1995,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,15.6487980812039
+Finland,FIN,1994,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,16.7667932974055
+Finland,FIN,1993,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,16.6198936683681
+Finland,FIN,1992,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,16.2924034135496
+Finland,FIN,1991,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,15.79209652456
+Finland,FIN,2024,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,56.746
+Finland,FIN,2023,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,56.597
+Finland,FIN,2022,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,54.557
+Finland,FIN,2021,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,52.66
+Finland,FIN,2020,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,51.366
+Finland,FIN,2019,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,53.419
+Finland,FIN,2018,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,54.634
+Finland,FIN,2017,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,54.249
+Finland,FIN,2016,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,53.276
+Finland,FIN,2015,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,53.359
+Finland,FIN,2014,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,52.545
+Finland,FIN,2013,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,52.934
+Finland,FIN,2012,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,52.083
+Finland,FIN,2011,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,50.561
+Finland,FIN,2010,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,49.331
+Finland,FIN,2009,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,51.158
+Finland,FIN,2008,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,53.453
+Finland,FIN,2007,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,53.59
+Finland,FIN,2006,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,60.793
+Finland,FIN,2005,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,60.163
+Finland,FIN,2004,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,58.387
+Finland,FIN,2003,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,56.589
+Finland,FIN,2002,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,54.774
+Finland,FIN,2001,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,52.946
+Finland,FIN,2000,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,51.109
+Finland,FIN,1999,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,49.27
+Finland,FIN,1998,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,47.433
+Finland,FIN,1997,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,44.739
+Finland,FIN,1996,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,45.616
+Finland,FIN,1995,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,48.091
+Finland,FIN,1994,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,41.1
+Finland,FIN,1993,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,44.516
+Finland,FIN,1992,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,47.923
+Finland,FIN,1991,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,53.016
+Finland,FIN,1990,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,56.918
+Finland,FIN,2024,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,53.113
+Finland,FIN,2023,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,52.893
+Finland,FIN,2022,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,53.312
+Finland,FIN,2021,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,53.128
+Finland,FIN,2020,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,52.537
+Finland,FIN,2019,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,53.307
+Finland,FIN,2018,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,51.149
+Finland,FIN,2017,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,51.893
+Finland,FIN,2016,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,51.099
+Finland,FIN,2015,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,51.225
+Finland,FIN,2014,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,51.068
+Finland,FIN,2013,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,50.71
+Finland,FIN,2012,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,50.847
+Finland,FIN,2011,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,50.677
+Finland,FIN,2010,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,49.127
+Finland,FIN,2009,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,49.816
+Finland,FIN,2008,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,53.425
+Finland,FIN,2007,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,52.847
+Finland,FIN,2006,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,60.853
+Finland,FIN,2005,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,60.314
+Finland,FIN,2004,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,59.167
+Finland,FIN,2003,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,58.01
+Finland,FIN,2002,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,56.845
+Finland,FIN,2001,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,55.671
+Finland,FIN,2000,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,54.491
+Finland,FIN,1999,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,53.307
+Finland,FIN,1998,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,52.118
+Finland,FIN,1997,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,52.218
+Finland,FIN,1996,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,49.272
+Finland,FIN,1995,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,51.111
+Finland,FIN,1994,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,51.242
+Finland,FIN,1993,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,54.63
+Finland,FIN,1992,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,56.575
+Finland,FIN,1991,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,61.094
+Finland,FIN,1990,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,64.157
+Finland,FIN,2024,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,54.884
+Finland,FIN,2023,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,54.696
+Finland,FIN,2022,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,53.918
+Finland,FIN,2021,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,52.9
+Finland,FIN,2020,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,51.968
+Finland,FIN,2019,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,53.361
+Finland,FIN,2018,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,52.845
+Finland,FIN,2017,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,53.04
+Finland,FIN,2016,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,52.161
+Finland,FIN,2015,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,52.269
+Finland,FIN,2014,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,51.791
+Finland,FIN,2013,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,51.798
+Finland,FIN,2012,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,51.452
+Finland,FIN,2011,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,50.62
+Finland,FIN,2010,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,49.227
+Finland,FIN,2009,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,50.473
+Finland,FIN,2008,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,53.439
+Finland,FIN,2007,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,53.21
+Finland,FIN,2006,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,60.824
+Finland,FIN,2005,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,60.24
+Finland,FIN,2004,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,58.786
+Finland,FIN,2003,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,57.315
+Finland,FIN,2002,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,55.832
+Finland,FIN,2001,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,54.338
+Finland,FIN,2000,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,52.838
+Finland,FIN,1999,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,51.333
+Finland,FIN,1998,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,49.828
+Finland,FIN,1997,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,48.563
+Finland,FIN,1996,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,47.485
+Finland,FIN,1995,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,49.634
+Finland,FIN,1994,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,46.283
+Finland,FIN,1993,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,49.687
+Finland,FIN,1992,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,52.346
+Finland,FIN,1991,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,57.142
+Finland,FIN,1990,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,60.612
+Finland,FIN,2024,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,79.425
+Finland,FIN,2023,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,79.251
+Finland,FIN,2022,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,78.93
+Finland,FIN,2021,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,77.245
+Finland,FIN,2020,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,76.429
+Finland,FIN,2019,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,76.475
+Finland,FIN,2018,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,76.09
+Finland,FIN,2017,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,74.717
+Finland,FIN,2016,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,74.08
+Finland,FIN,2015,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,74.366
+Finland,FIN,2014,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,73.675
+Finland,FIN,2013,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,73.486
+Finland,FIN,2012,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,73.219
+Finland,FIN,2011,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,72.68
+Finland,FIN,2010,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,72.482
+Finland,FIN,2009,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,73.314
+Finland,FIN,2008,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,73.911
+Finland,FIN,2007,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,73.737
+Finland,FIN,2006,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,74.947
+Finland,FIN,2005,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,74.598
+Finland,FIN,2004,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,73.905
+Finland,FIN,2003,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,73.678
+Finland,FIN,2002,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,73.695
+Finland,FIN,2001,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,73.037
+Finland,FIN,2000,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,71.994
+Finland,FIN,1999,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,71.678
+Finland,FIN,1998,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,69.975
+Finland,FIN,1997,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,69.808
+Finland,FIN,1996,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,69.123
+Finland,FIN,1995,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,69.1
+Finland,FIN,1994,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,69.021
+Finland,FIN,1993,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,69.769
+Finland,FIN,1992,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,70.555
+Finland,FIN,1991,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,71.968
+Finland,FIN,1990,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,73.408
+Finland,FIN,2024,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,80.283
+Finland,FIN,2023,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,80.14
+Finland,FIN,2022,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,80.35
+Finland,FIN,2021,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,80.085
+Finland,FIN,2020,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,79.67
+Finland,FIN,2019,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,79.372
+Finland,FIN,2018,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,79.338
+Finland,FIN,2017,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,78.192
+Finland,FIN,2016,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,77.211
+Finland,FIN,2015,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,76.691
+Finland,FIN,2014,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,76.557
+Finland,FIN,2013,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,76.533
+Finland,FIN,2012,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,76.671
+Finland,FIN,2011,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,76.979
+Finland,FIN,2010,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,75.83
+Finland,FIN,2009,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,76.017
+Finland,FIN,2008,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,77.577
+Finland,FIN,2007,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,76.974
+Finland,FIN,2006,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,78.439
+Finland,FIN,2005,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,78.278
+Finland,FIN,2004,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,77.917
+Finland,FIN,2003,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,78.123
+Finland,FIN,2002,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,77.868
+Finland,FIN,2001,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,77.672
+Finland,FIN,2000,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,77.116
+Finland,FIN,1999,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,76.517
+Finland,FIN,1998,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,75.784
+Finland,FIN,1997,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,75.575
+Finland,FIN,1996,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,73.802
+Finland,FIN,1995,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,74.661
+Finland,FIN,1994,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,76.249
+Finland,FIN,1993,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,76.96
+Finland,FIN,1992,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,77.779
+Finland,FIN,1991,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,79.303
+Finland,FIN,1990,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,80.767
+Finland,FIN,2024,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,79.863
+Finland,FIN,2023,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,79.704
+Finland,FIN,2022,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,79.654
+Finland,FIN,2021,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,78.692
+Finland,FIN,2020,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,78.079
+Finland,FIN,2019,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,77.947
+Finland,FIN,2018,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,77.74
+Finland,FIN,2017,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,76.48
+Finland,FIN,2016,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,75.667
+Finland,FIN,2015,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,75.543
+Finland,FIN,2014,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,75.133
+Finland,FIN,2013,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,75.028
+Finland,FIN,2012,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,74.965
+Finland,FIN,2011,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,74.854
+Finland,FIN,2010,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,74.175
+Finland,FIN,2009,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,74.68
+Finland,FIN,2008,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,75.765
+Finland,FIN,2007,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,75.373
+Finland,FIN,2006,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,76.712
+Finland,FIN,2005,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,76.458
+Finland,FIN,2004,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,75.933
+Finland,FIN,2003,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,75.925
+Finland,FIN,2002,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,75.804
+Finland,FIN,2001,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,75.379
+Finland,FIN,2000,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,74.582
+Finland,FIN,1999,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,74.124
+Finland,FIN,1998,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,72.91
+Finland,FIN,1997,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,72.722
+Finland,FIN,1996,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,71.487
+Finland,FIN,1995,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,71.909
+Finland,FIN,1994,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,72.671
+Finland,FIN,1993,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,73.399
+Finland,FIN,1992,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,74.2
+Finland,FIN,1991,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,75.667
+Finland,FIN,1990,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,77.115
+Finland,FIN,2024,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,57.436
+Finland,FIN,2023,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,57.489
+Finland,FIN,2022,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,57.267
+Finland,FIN,2021,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,55.927
+Finland,FIN,2020,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,55.175
+Finland,FIN,2019,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,55.678
+Finland,FIN,2018,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,55.688
+Finland,FIN,2017,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,55.028
+Finland,FIN,2016,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,54.982
+Finland,FIN,2015,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,55.407
+Finland,FIN,2014,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,55.297
+Finland,FIN,2013,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,55.568
+Finland,FIN,2012,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,55.865
+Finland,FIN,2011,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,55.743
+Finland,FIN,2010,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,55.871
+Finland,FIN,2009,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,56.862
+Finland,FIN,2008,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,57.374
+Finland,FIN,2007,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,57.33
+Finland,FIN,2006,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,58.337
+Finland,FIN,2005,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,58.157
+Finland,FIN,2004,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,57.573
+Finland,FIN,2003,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,57.631
+Finland,FIN,2002,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,57.75
+Finland,FIN,2001,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,57.281
+Finland,FIN,2000,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,56.567
+Finland,FIN,1999,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,56.323
+Finland,FIN,1998,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,55.058
+Finland,FIN,1997,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,54.858
+Finland,FIN,1996,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,54.555
+Finland,FIN,1995,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,54.635
+Finland,FIN,1994,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,54.718
+Finland,FIN,1993,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,55.445
+Finland,FIN,1992,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,56.172
+Finland,FIN,1991,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,57.383
+Finland,FIN,1990,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,58.637
+Finland,FIN,2024,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,63.119
+Finland,FIN,2023,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,63.162
+Finland,FIN,2022,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,63.689
+Finland,FIN,2021,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,63.748
+Finland,FIN,2020,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,62.661
+Finland,FIN,2019,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,62.829
+Finland,FIN,2018,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,63.08
+Finland,FIN,2017,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,62.461
+Finland,FIN,2016,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,62.27
+Finland,FIN,2015,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,62.277
+Finland,FIN,2014,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,62.349
+Finland,FIN,2013,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,62.834
+Finland,FIN,2012,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,63.504
+Finland,FIN,2011,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,64.115
+Finland,FIN,2010,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,63.768
+Finland,FIN,2009,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,64.105
+Finland,FIN,2008,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,65.711
+Finland,FIN,2007,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,65.14
+Finland,FIN,2006,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,66.456
+Finland,FIN,2005,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,66.514
+Finland,FIN,2004,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,66.385
+Finland,FIN,2003,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,66.931
+Finland,FIN,2002,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,66.824
+Finland,FIN,2001,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,66.875
+Finland,FIN,2000,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,66.586
+Finland,FIN,1999,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,66.151
+Finland,FIN,1998,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,65.648
+Finland,FIN,1997,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,65.748
+Finland,FIN,1996,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,64.271
+Finland,FIN,1995,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,65.196
+Finland,FIN,1994,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,66.774
+Finland,FIN,1993,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,67.592
+Finland,FIN,1992,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,68.473
+Finland,FIN,1991,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,69.957
+Finland,FIN,1990,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,71.393
+Finland,FIN,2024,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,7.471
+Finland,FIN,2023,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,6.413
+Finland,FIN,2022,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,6.367
+Finland,FIN,2021,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,7.044
+Finland,FIN,2020,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,7.485
+Finland,FIN,2019,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,6.173
+Finland,FIN,2018,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,7.298
+Finland,FIN,2017,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,8.388
+Finland,FIN,2016,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,8.582
+Finland,FIN,2015,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,8.842
+Finland,FIN,2014,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,7.952
+Finland,FIN,2013,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,7.517
+Finland,FIN,2012,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,7.053
+Finland,FIN,2011,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,7.103
+Finland,FIN,2010,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,7.64
+Finland,FIN,2009,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,7.571
+Finland,FIN,2008,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,6.691
+Finland,FIN,2007,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,7.192
+Finland,FIN,2006,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,9.135
+Finland,FIN,2005,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,9.651
+Finland,FIN,2004,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,10.576
+Finland,FIN,2003,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,9.938
+Finland,FIN,2002,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,10.171
+Finland,FIN,2001,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,10.758
+Finland,FIN,2000,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,11.992
+Finland,FIN,1999,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,12.447
+Finland,FIN,1998,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,13.581
+Finland,FIN,1997,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,15.175
+Finland,FIN,1996,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,15.556
+Finland,FIN,1995,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,16.151
+Finland,FIN,1994,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,14.871
+Finland,FIN,1993,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,14.418
+Finland,FIN,1992,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,9.645
+Finland,FIN,1991,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,5.031
+Finland,FIN,2024,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,9.002
+Finland,FIN,2023,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,7.846
+Finland,FIN,2022,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,7.047
+Finland,FIN,2021,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,8.138
+Finland,FIN,2020,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,8.01
+Finland,FIN,2019,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,7.175
+Finland,FIN,2018,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,7.419
+Finland,FIN,2017,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,8.871
+Finland,FIN,2016,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,9.036
+Finland,FIN,2015,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,9.874
+Finland,FIN,2014,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,9.325
+Finland,FIN,2013,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,8.821
+Finland,FIN,2012,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,8.278
+Finland,FIN,2011,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,8.402
+Finland,FIN,2010,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,9.091
+Finland,FIN,2009,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,8.884
+Finland,FIN,2008,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,6.072
+Finland,FIN,2007,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,6.539
+Finland,FIN,2006,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,8.749
+Finland,FIN,2005,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,9.557
+Finland,FIN,2004,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,10.157
+Finland,FIN,2003,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,10.956
+Finland,FIN,2002,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,10.655
+Finland,FIN,2001,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,9.861
+Finland,FIN,2000,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,10.354
+Finland,FIN,1999,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,11.005
+Finland,FIN,1998,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,12.883
+Finland,FIN,1997,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,14.78
+Finland,FIN,1996,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,15.587
+Finland,FIN,1995,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,17.776
+Finland,FIN,1994,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,17.802
+Finland,FIN,1993,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,17.783
+Finland,FIN,1992,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,13.328
+Finland,FIN,1991,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,7.814
+Finland,FIN,2023,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,3.095
+Finland,FIN,2022,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,3.221
+Finland,FIN,2021,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,3.748
+Finland,FIN,2020,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,3.799
+Finland,FIN,2019,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,4.048
+Finland,FIN,2018,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,4.372
+Finland,FIN,2017,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,4.957
+Finland,FIN,2016,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,5.598
+Finland,FIN,2015,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,6.394
+Finland,FIN,2014,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,7.352
+Finland,FIN,2013,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,7.566
+Finland,FIN,2012,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,7.749
+Finland,FIN,2011,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,7.918
+Finland,FIN,2010,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,8.407
+Finland,FIN,2009,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,8.48
+Finland,FIN,2008,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,8.59
+Finland,FIN,2007,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,8.871
+Finland,FIN,2006,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,9.262
+Finland,FIN,2005,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,10.057
+Finland,FIN,2004,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,10.676
+Finland,FIN,2003,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,10.817
+Finland,FIN,2002,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,11.236
+Finland,FIN,2001,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,10.672
+Finland,FIN,2000,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,9.928
+Finland,FIN,1999,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,9.488
+Finland,FIN,1998,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,9.18
+Finland,FIN,1997,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,9.436
+Finland,FIN,1996,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,10.991
+Finland,FIN,1995,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,10.091
+Finland,FIN,1994,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,10.099
+Finland,FIN,1993,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,10.203
+Finland,FIN,1992,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,11.043
+Finland,FIN,1991,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,11.702
+Finland,FIN,1990,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,12.311
+Finland,FIN,1989,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,12.348
+Finland,FIN,1988,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,12.904
+Finland,FIN,1987,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,12.777
+Finland,FIN,1986,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,13.501
+Finland,FIN,1985,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,14.372
+Finland,FIN,1984,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,15.424
+Finland,FIN,1983,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,16.042
+Finland,FIN,1982,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,16.998
+Finland,FIN,1981,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,17.157
+Finland,FIN,1980,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,18.541
+Finland,FIN,1979,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,19.265
+Finland,FIN,1978,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,21.171
+Finland,FIN,1977,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,23.818
+Finland,FIN,1976,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,26.28
+Finland,FIN,1975,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,27.767
+Finland,FIN,1974,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,27.602
+Finland,FIN,1973,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,26.259
+Finland,FIN,1972,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,28.087
+Finland,FIN,1971,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,29.561
+Finland,FIN,1970,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,32.138
+Finland,FIN,1969,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,34.029
+Finland,FIN,1968,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,36.526
+Finland,FIN,1967,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,37.273
+Finland,FIN,1966,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,36.302
+Finland,FIN,1965,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,33.603
+Finland,FIN,1964,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,29.768
+Finland,FIN,1963,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,26.681
+Finland,FIN,1962,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,23.944
+Finland,FIN,1961,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,25.188
+Finland,FIN,1960,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,28.006
+Finland,FIN,2023,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,84.4
+Finland,FIN,2022,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,83.8
+Finland,FIN,2021,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,84.6
+Finland,FIN,2020,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,84.8
+Finland,FIN,2019,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,84.8
+Finland,FIN,2018,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,84.5
+Finland,FIN,2017,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,84.5
+Finland,FIN,2016,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,84.4
+Finland,FIN,2015,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,84.4
+Finland,FIN,2014,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,84.1
+Finland,FIN,2013,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,84.1
+Finland,FIN,2012,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,83.7
+Finland,FIN,2011,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,83.8
+Finland,FIN,2010,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,83.2
+Finland,FIN,2009,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,83.1
+Finland,FIN,2008,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,83
+Finland,FIN,2007,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,82.9
+Finland,FIN,2006,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,82.8
+Finland,FIN,2005,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,82.3
+Finland,FIN,2004,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,82.3
+Finland,FIN,2003,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,81.8
+Finland,FIN,2002,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,81.5
+Finland,FIN,2001,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,81.5
+Finland,FIN,2000,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,81
+Finland,FIN,1999,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,81.02
+Finland,FIN,1998,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,80.84
+Finland,FIN,1997,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,80.51
+Finland,FIN,1996,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,80.54
+Finland,FIN,1995,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,80.21
+Finland,FIN,1994,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,80.15
+Finland,FIN,1993,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,79.48
+Finland,FIN,1992,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,79.43
+Finland,FIN,1991,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,79.32
+Finland,FIN,1990,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,78.88
+Finland,FIN,1989,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,78.9
+Finland,FIN,1988,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,78.69
+Finland,FIN,1987,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,78.71
+Finland,FIN,1986,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,78.76
+Finland,FIN,1985,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,78.51
+Finland,FIN,1984,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,78.76
+Finland,FIN,1983,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,78.36
+Finland,FIN,1982,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,78.58
+Finland,FIN,1981,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,78.09
+Finland,FIN,1980,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,77.85
+Finland,FIN,1979,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,77.55
+Finland,FIN,1978,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,77.43
+Finland,FIN,1977,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,76.96
+Finland,FIN,1976,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,76.31
+Finland,FIN,1975,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,76.14
+Finland,FIN,1974,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,75.55
+Finland,FIN,1973,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,75.69
+Finland,FIN,1972,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,75.02
+Finland,FIN,1971,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,74.32
+Finland,FIN,1970,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,74.4
+Finland,FIN,1969,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,73.56
+Finland,FIN,1968,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,73.55
+Finland,FIN,1967,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,73.59
+Finland,FIN,1966,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,73.17
+Finland,FIN,1965,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,72.85
+Finland,FIN,1964,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,72.96
+Finland,FIN,1963,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,72.68
+Finland,FIN,1962,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,72.24
+Finland,FIN,1961,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,72.24
+Finland,FIN,1960,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,72.4
+Finland,FIN,2023,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,79.1
+Finland,FIN,2022,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,78.7
+Finland,FIN,2021,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,79.3
+Finland,FIN,2020,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,79.2
+Finland,FIN,2019,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,79.3
+Finland,FIN,2018,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,79.1
+Finland,FIN,2017,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,78.9
+Finland,FIN,2016,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,78.6
+Finland,FIN,2015,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,78.7
+Finland,FIN,2014,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,78.4
+Finland,FIN,2013,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,78
+Finland,FIN,2012,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,77.7
+Finland,FIN,2011,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,77.3
+Finland,FIN,2010,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,76.7
+Finland,FIN,2009,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,76.5
+Finland,FIN,2008,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,76.3
+Finland,FIN,2007,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,75.8
+Finland,FIN,2006,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,75.8
+Finland,FIN,2005,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,75.5
+Finland,FIN,2004,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,75.3
+Finland,FIN,2003,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,75.1
+Finland,FIN,2002,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,74.9
+Finland,FIN,2001,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,74.6
+Finland,FIN,2000,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,74.1
+Finland,FIN,1999,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,73.74
+Finland,FIN,1998,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,73.52
+Finland,FIN,1997,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,73.42
+Finland,FIN,1996,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,73.03
+Finland,FIN,1995,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,72.79
+Finland,FIN,1994,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,72.82
+Finland,FIN,1993,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,72.11
+Finland,FIN,1992,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,71.67
+Finland,FIN,1991,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,71.33
+Finland,FIN,1990,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,70.94
+Finland,FIN,1989,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,70.88
+Finland,FIN,1988,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,70.66
+Finland,FIN,1987,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,70.67
+Finland,FIN,1986,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,70.56
+Finland,FIN,1985,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,70.14
+Finland,FIN,1984,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,70.48
+Finland,FIN,1983,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,70.24
+Finland,FIN,1982,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,70.22
+Finland,FIN,1981,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,69.61
+Finland,FIN,1980,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,69.24
+Finland,FIN,1979,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,68.97
+Finland,FIN,1978,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,68.58
+Finland,FIN,1977,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,67.96
+Finland,FIN,1976,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,67.53
+Finland,FIN,1975,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,67.42
+Finland,FIN,1974,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,66.93
+Finland,FIN,1973,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,66.97
+Finland,FIN,1972,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,66.6
+Finland,FIN,1971,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,65.92
+Finland,FIN,1970,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,66.16
+Finland,FIN,1969,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,65.64
+Finland,FIN,1968,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,65.87
+Finland,FIN,1967,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,65.93
+Finland,FIN,1966,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,65.96
+Finland,FIN,1965,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,65.29
+Finland,FIN,1964,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,65.66
+Finland,FIN,1963,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,65.52
+Finland,FIN,1962,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,65.09
+Finland,FIN,1961,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,65.61
+Finland,FIN,1960,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,65.41
